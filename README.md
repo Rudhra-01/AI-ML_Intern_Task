@@ -15,12 +15,11 @@ Machine Learning Basics
 Jupyter Notebook
 Git & GitHub
 📂 Repository Structure
-AI-ML_Intern_Task/
-│
-├── Dataset/              # Dataset files used in tasks
-├── Task_1/               # Internship Task 1 files
-├── Output_Files/         # Generated outputs and results
-├── README.md             # Project documentation
+AI-ML_Intern_Task
+Dataset          # Dataset files used in tasks
+Task_1         # Internship Task 1 files
+Output_Files   # Generated outputs and results
+README.md       # Project documentation
 📖 Tasks Included
 ✅ Task 1 – Titanic Dataset Analysis
 Data loading and preprocessing
